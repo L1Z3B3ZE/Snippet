@@ -129,3 +129,6 @@ REST_FRAMEWORK = {
    'PAGE_SIZE': 10
 }
 
+ALLOWED_HOSTS = [
+    'lizebeze.pythonanywhere.com'
+]
